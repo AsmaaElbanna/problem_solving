@@ -1,3 +1,11 @@
+
+/*
+Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
+*/
+ // using sorting
+
 void main() {
   List<String> s = ["flower", "flow", "flight"];
   print('Hello world');
